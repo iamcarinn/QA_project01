@@ -1,8 +1,8 @@
-# MT_project01
+# QA_project01
 SDLC and STLC. Test Artifacts
  ---
 
-Educational project MT_project01 from organization «School 21 and the National Research Tomsk State University, TSU.
+Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
 
 ## Tasks
 
